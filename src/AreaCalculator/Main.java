@@ -2,7 +2,7 @@ package AreaCalculator;
 
 public class Main {
     public static void main(String[] args) {
-        // calculate necessary classes
+        // declare necessary classes
         Shape triangle = new Triangle(new double[]{3, 4, 5});
         Shape rectangle = new Rectangle(new double[]{10, 5});
         Shape square = new Rectangle(new double[]{12, 12});
