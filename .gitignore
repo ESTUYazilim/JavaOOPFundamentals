@@ -1,2 +1,5 @@
 # ignore bin directory
 bin/
+
+# ignore .vscode
+.vscode/
