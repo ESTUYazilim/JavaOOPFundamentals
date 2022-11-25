@@ -1,5 +1,3 @@
-package AreaCalculator;
-
 import java.util.Arrays;
 
 public class Rectangle extends Polygonal {

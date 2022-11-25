@@ -1,5 +1,3 @@
-package AreaCalculator;
-
 public class Triangle extends Polygonal {
 
     public Triangle(double[] sides) {

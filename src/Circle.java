@@ -1,5 +1,3 @@
-package AreaCalculator;
-
 public class Circle implements Shape {
     private final double PI = Math.PI;
     private double radius;

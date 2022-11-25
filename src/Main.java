@@ -1,5 +1,3 @@
-package AreaCalculator;
-
 public class Main {
     public static void main(String[] args) {
         // declare necessary classes

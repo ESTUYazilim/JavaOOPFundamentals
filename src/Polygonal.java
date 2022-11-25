@@ -1,5 +1,3 @@
-package AreaCalculator;
-
 import java.util.Arrays;
 
 public abstract class Polygonal implements Shape {
